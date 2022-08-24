@@ -44,9 +44,12 @@
     },
     {
       "path": "../../../../../../Downloads/Unit_18_HW_Template"
+    },
+    {
+      "path": "../../../../Portfolio"
     }
   ],
   "settings": {
-    "liveServer.settings.multiRootWorkspaceName": "UX_UI_HW_19"
+    "liveServer.settings.multiRootWorkspaceName": "UX_UI_HW_20"
   }
 }
